@@ -5,6 +5,7 @@ Performed data cleaning, preprocessing, exploratory data analysis, and built an 
 Analyzed revenue trends, peak sales periods, Average Order Value (AOV), and product performance to support business decision-making.
 
 You can find the raw data & official analysis here:
-🔗 E-commerce Sales Data
+
+🔗 [E-commerce Sales Data](https://github.com/seemaacharya/E-commerce-Sales-Dashboard-and-Analysis-in-Excel/blob/main/Ecommerce_Sales_Women_Clothing.xlsx)
 
 📊 PPT Presentation: [View Project Presentation](https://docs.google.com/presentation/d/1dA5fH02uji038zn8MC4CMo66tWlnhc0g/edit?usp=sharing&ouid=105626524576028316745&rtpof=true&sd=true&utm_source=chatgpt.com)
