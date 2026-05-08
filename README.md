@@ -1,4 +1,4 @@
-# E-commerce-Sales-Performance-Analysis-Dashboarding_Excel
+# E-commerce Sales Performance Analysis & KPI Dashboard_Excel
 
 I worked on a Women’s Clothing E-commerce Sales Analysis project at Alpixn Technologies, focused on analyzing sales performance, customer purchasing behavior, and SKU trends using Excel.
 Performed data cleaning, preprocessing, exploratory data analysis, and built an interactive dashboard using Pivot Tables, Charts, and Slicers to generate business insights.
