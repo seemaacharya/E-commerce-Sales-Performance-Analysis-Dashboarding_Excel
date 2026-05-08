@@ -8,4 +8,6 @@ You can find the raw data & official analysis here:
 
 🔗 [E-commerce Sales Data](https://docs.google.com/spreadsheets/d/1s3rBExBKixOnfIj4BW0O30n_K22w0E36/edit?usp=sharing&ouid=105626524576028316745&rtpof=true&sd=true)
 
-📊 PPT Presentation: [View Project Presentation](https://docs.google.com/presentation/d/1dA5fH02uji038zn8MC4CMo66tWlnhc0g/edit?usp=sharing&ouid=105626524576028316745&rtpof=true&sd=true&utm_source=chatgpt.com)
+Documentation - https://docs.google.com/document/d/1ZpOcmIG_AFDnGpHbV_OVo5a1ylcf99KQ/edit?usp=sharing&ouid=105626524576028316745&rtpof=true&sd=true
+
+📊 PPT Presentation: [View Project Presentation](https://docs.google.com/presentation/d/1I215ZD0x1VLyL6QXw7VIKnOrmIamXU3M/edit?usp=sharing&ouid=105626524576028316745&rtpof=true&sd=true)
